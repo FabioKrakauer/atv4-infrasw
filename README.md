@@ -7,7 +7,7 @@
 ## Como executar
 
 Para executar o programa basta rodar os seguintes comandos:
-**"make"**: Este comando ira compilar o arquivo 'main.c' para build
+**"make"**: Este comando ira compilar o arquivo 'main.cpp' para build
 
 **"make run"**: Para executar o script e receber as respostas.
 
